@@ -1,0 +1,4 @@
+1,test,50
+2,shanos,100
+3,test3,20
+4,newbie,77

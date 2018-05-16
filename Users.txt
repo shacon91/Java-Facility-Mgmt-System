@@ -1,0 +1,7 @@
+1,shane@msn.com,pass123,1
+2,ash@msn.com,pass123,0
+3,amy@msn.com,m1K^4j^T,0
+4,sean@msn.com,u1B£0x*O,0
+5,mandy@msn.com,w6U^2i_Y,0
+6,john@msn.com,h7Q^5e*S,0
+7,jimmy@msn.com,z7X%1m^O,0
